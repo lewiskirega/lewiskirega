@@ -10,7 +10,7 @@
   <p>Feel free to explore my repositories, delve into the code, and provide feedback. If you have any questions, suggestions, or potential collaborations, don't hesitate to reach out. Let's connect and make a positive impact in the world of cybersecurity and programming together! Thank you for visiting my GitHub profile, and I look forward to our journey together!</p>
 </p>
 
-<p align="left"> <a href="https://twitter.com/bennyjoezz" target="blank"><img src="https://twitter.com/Mk_cyberninja" alt="bennyjoezz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Mk_cyberninja" target="blank"><img src="https://img.shields.io/twitter/follow/Mk_cyberninja?logo=twitter&style=for-the-badge" alt="lewiskirega" /></a> </p>
 
 - 💬 Ask me about **JavaScript, SQL, C++, HTML and CSS**
 - 
