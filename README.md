@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/Mk_cyberninja" target="blank"><img src="https://img.shields.io/twitter/follow/Mk_cyberninja?logo=twitter&style=for-the-badge" alt="lewiskirega" /></a> </p>
 
-- 💬 Ask me about **JavaScript, SQL, C++, HTML and CSS**
+- 💬 Ask me about **JavaScript, SQL, C++, HTML, Python and CSS**
 - 📫 You can reach me at **lewismk744@gmail.com**
 
 <h3 align="left">Connect with me through:</h3>
