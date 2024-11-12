@@ -6,7 +6,7 @@
 <p align="center">
   I'm thrilled to have you here! My name is Lewis Kirega. I'm passionate about the dynamic realms of cybersecurity and programming. As you explore my repositories, you'll discover a collection of projects that showcase my skills and expertise in these fields. 🏁
   <p align="center">With a deep understanding of cybersecurity practices and the ability to tackle complex programming challenges, I strive to contribute to the ever-evolving landscape of technology. I have hands-on experience in designing secure systems, conducting vulnerability assessments, implementing robust encryption protocols, and developing innovative solutions to safeguard digital assets.</p>
-  <p align="center">Throughout my journey, I've honed my skills in various programming languages, including but not limited to html& css, SQL, C++, and JavaScript. These tools have empowered me to create efficient and scalable applications, automate tasks, and enhance system security </p>
+  <p align="center">Throughout my journey, I've honed my skills in various programming languages, including but not limited to html& css, SQL, C++, React and JavaScript. These tools have empowered me to create efficient and scalable applications, automate tasks, and enhance system security </p>
   <p>Feel free to explore my repositories, delve into the code, and provide feedback. If you have any questions, suggestions, or potential collaborations, don't hesitate to reach out. Let's connect and make a positive impact in the world of cybersecurity and programming together! Thank you for visiting my GitHub profile, and I look forward to our journey together!</p>
 </p>
 
