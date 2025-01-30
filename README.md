@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lewiskirega&show_icons=true&locale=en" alt="lewiskirega" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lewiskirega" alt="GitHub Streak" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lewiskirega" alt="GitHub Streak" /></a>
